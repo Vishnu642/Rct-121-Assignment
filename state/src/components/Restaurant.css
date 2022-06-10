@@ -1,0 +1,30 @@
+.container{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.restaurant-card{
+    width: 420px;
+    border: 1px solid black;
+}
+.res-top{
+    width: 100%;
+    display: flex;
+    border: 1px solid blue;
+}
+.res-top>div>img{
+    width: 110px;
+    height: 130px;
+    padding: 2px;
+}
+.res-details{
+    width: 230px;
+    border: 1px solid green;
+    padding: 2px;
+}
+.res-bottom{
+    width: 100%;
+}

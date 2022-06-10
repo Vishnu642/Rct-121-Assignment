@@ -1,0 +1,14 @@
+.buttonBase {
+    padding:2rem;
+    font-size: 15px;
+}
+
+.buttonLight{
+    background-color: aliceblue;
+    color: darkcyan;
+}
+
+.buttonDark{
+    background-color: darkcyan;
+    color: aliceblue;
+}

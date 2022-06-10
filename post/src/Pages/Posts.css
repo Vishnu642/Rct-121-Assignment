@@ -1,0 +1,16 @@
+.post-title{
+    width: 100%;
+   margin: auto;
+    border: 1px solid black;padding: 10px;
+}
+
+.post-body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    border: 1px solid blue;
+    margin-bottom: 10px;
+    padding: 10px;
+}

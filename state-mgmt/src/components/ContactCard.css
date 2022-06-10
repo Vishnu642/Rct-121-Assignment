@@ -1,0 +1,8 @@
+.contact{
+    width: 100%;
+    margin-bottom: 0.5rem;
+    background-color: bisque;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+}
